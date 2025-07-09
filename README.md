@@ -8,7 +8,7 @@ This repository contains two key branches representing different phases of the c
 
 ---
 
-### 🔹 [`camp-submissions`](https://github.com/arpit-sonar/Summer_Analytics_25/camp-submissions)
+### 🔹 [`camp-submissions`](https://github.com/arpit-sonar/Summer_Analytics_25/tree/camp-submissions)
 
 This branch includes:
 
@@ -20,7 +20,7 @@ The work in this branch reflects regular learning milestones and individual task
 
 ---
 
-### 🔹 [`Capstone-Project`](https://github.com/arpit-sonar/Summer_Analytics_25/Capstone-Project)
+### 🔹 [`Capstone-Project`](https://github.com/arpit-sonar/Summer_Analytics_25/tree/Capstone-Project)
 
 This branch contains the final **Capstone Project**, developed as the culminating task of Summer Analytics 2025.
 
@@ -58,8 +58,8 @@ The aim of this repository is to showcase the hands-on work done during the **5-
 
 ## 📁 How to Explore
 
-- Switch to [`camp-submissions`](https://github.com/arpit-sonar/Summer_Analytics_25/camp-submissions) to view the learning tasks and hackathon notebook.
-- Switch to  [`Capstone-Project`](https://github.com/arpit-sonar/Summer_Analytics_25/Capstone-Project) to explore the final project.
+- Switch to [`camp-submissions`](https://github.com/arpit-sonar/Summer_Analytics_25/tree/camp-submissions) to view the learning tasks and hackathon notebook.
+- Switch to  [`Capstone-Project`](https://github.com/arpit-sonar/Summer_Analytics_25/tree/Capstone-Project) to explore the final project.
 
 ---
 
