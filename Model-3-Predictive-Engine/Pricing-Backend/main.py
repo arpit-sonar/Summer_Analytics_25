@@ -6,9 +6,14 @@ import pandas as pd
 
 app =  FastAPI(title="Dynamic Parking Pricing API")
 
+origins = [
+    "https://predictive-pricing-dashboard-chat-app6.vercel.app", 
+    "http://localhost:5173",
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=origins, 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
