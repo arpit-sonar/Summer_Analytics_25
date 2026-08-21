@@ -1,7 +1,7 @@
 # Capstone Project: Predictive Pricing Engine
 Made under Summer Analytics 2025 by the Consulting & Analytics Club, IIT Guwahati.
 
-**Demo Link** : https://predictive-pricing-dashboard-git-capstone-project-chat-app6.vercel.app/
+  [🚀 **Live Demo**](https://predictive-pricing-dashboard-git-capstone-project-chat-app6.vercel.app/)
 
 ## 🚗 Real-Time Dynamic Parking Pricing System
 A comprehensive dynamic parking pricing system that optimizes revenue and manages traffic congestion for 14 parking lots. The project evolved from a real-time data streaming simulation into a full-stack, AI-driven web application. It processes timestamped vehicle data, predicts future demand, and calculates dynamic prices using multiple pricing models.
