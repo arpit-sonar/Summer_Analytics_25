@@ -22,7 +22,7 @@ function App() {
   useEffect(() => {
     const fetchPrice = async () => {
       try {
-        const response = await axios.post('http://127.0.0.1:8000/api/get-price', inputs);
+        const response = await axios.post('[https://predictive-pricing-backend.onrender.com](https://predictive-pricing-backend.onrender.com)', inputs);
         const { dynamic_price_usd, predicted_occupancy_in_30_mins } = response.data.data;
         
         setCurrentPrice(dynamic_price_usd);
