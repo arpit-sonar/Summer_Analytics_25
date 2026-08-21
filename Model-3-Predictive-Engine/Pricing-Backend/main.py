@@ -31,7 +31,8 @@ class ParkingData(BaseModel):
     queue_length: int
     is_special_day: int
     traffic_condition: str  
-    vehicle_type: str       
+    vehicle_type: str  
+    hour : int     
     day_of_week: int
 
 def calculate_price(predicted_occupancy, capacity, queue, traffic_val, vehicle_val, is_special):
